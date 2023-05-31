@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Barcelona Updates</string>
+
+    <!--  News  -->
+
+    <!--  news 1  -->
+    <string name="news_title1">Barcelona Mau Tutup Barca TV, 120 Pegawai Kena PHK</string>
+    <string name="news_desc1">Saluran media internal Barcelona, Barca TV, tidak akan beroperasi lagi akhir musim ini. Blaugrana menutup kanal
+        tersebut demi penghematan klub.\n\n
+        Barcelona masih berusaha mengurangi pengeluaran mereka sebesar 200 juta euro. Penghematan dilakukan untuk bisa kembali ke aturan finansial
+        LaLiga.\n\n
+        Presiden LaLiga, Javier Tebas, menyebut Barcelona sudah tak bisa lagi menarik \'tuas ekonomi\' untuk mengurai krisis keuangan klub.
+        Los Cules pun mulai mengetatkan pinggang dengan cara-cara lain.\n\n
+        Melansir Football Espana, Barcelona berencana mengakhiri layanan Barca TV. Kanal tersebut akan dihentikan per tanggal 30 Juni 2023.\n\n
+        Penutupan Barca TV diproyeksikan menghemat pengeluaran Barcelona sebesar 10 juta euro per tahun. 120 pekerja saluran media itu juga
+        menerima surat PHK.\n\n
+        Penutupan Barca TV diharapkan bisa memberi izin bagi Barcelona untuk belanja pemain musim depan. Klub Catalunya itu santer disebut ingin
+        memulangkan Lionel Messi ke Camp Nou.\n\n
+        Barca TV saat ini dikelola oleh Movistar. Kontrak kerja sama kedua pihak habis pada 30 Juni, diputuskan bahwa ini adalah waktu yang tepat
+        untuk menutup jaringan.\n\n
+        Barcelona telah mengirim burofax pada Selasa lalu perihal keputusan untuk tidak memperpanjang kanal Barca TV. Blaugrana rencananya akan
+        menyiarkan saluran media melalui OTT (platform streaming internet) dengan 14 pekerja dari Barca Studios.\n\n
+    </string>
+
+    <!--  news 2  -->
+    <string name="news_title2">Xavi tak Habis Pikir Barcelona Butuh Waktu Lama untuk Segel Gelar La Liga</string>
+    <string name="news_desc2">Pelatih Barcelona Xavi Hernandez tak mengerti mengapa timnya membutuhkan waktu lama untuk segera menyegel gelar La
+        Liga Spanyol musim ini.\n\n
+        Blaugrana kini memimpin puncak klasemen dengan keunggulan 11 poin dari rival terdekatnya Real Madrid, tetrapi meraih hasil kurang
+        konsisten selama April. Akan tetapi keunggulan itu membuat Barcelona menjadi favorit juara La Liga Spanyol musim ini.\n\n
+        Hal tersebut ia sampaikan jelang Barcelona menjamu Real Betis dalam lanjutan La Liga, di Stadion Camp Nou, Ahad (30/4) dini hari WIB.
+        Xavi tampak frustasi ketika Barcelona kalah 1-2 dari Rayo Vallecano pada laga sebelumnya.\n\n
+        \“Saya tidak mengerti ketika Anda bertanya kepada saya tentang apakah liga terasa lama,\” kata Xavi dilansir dari Football Espana, Jumat
+        (28/4/2023).\n\n
+        Pelatih yang berposisi sebagai gelandang saat masih bermain ini mengeklaim Barceloan telah bersaing dengan baik. Xavi menjawab kritik
+        yang ditujukan kepada timnya.\n\n
+        Xavi tak akan mudah menyalahkan pemainnya ketika hanya mengamankan pertandingan dengan skor tipis. Ia berusaha menghargai setiap usaha
+        yang dikerjakan oleh anak asuhnya. Meski demikian Xavi menekankan bahwa Barcelona harus memastikan gelar juara La Liga Spanyol musim ini.\n\n
+    </string>
+
+    <!--  news 3  -->
+    <string name="news_title3">Lamine Yamal: Wonderkid Pemecah Rekor Barcelona Dan Produk La Masia Terbaik Sejak Lionel Messi</string>
+    <string name="news_desc3">Pemain berusia 15 tahun itu diprediksi bakal menjadi bintang dalam beberapa watu ke depan, dan kini masuk ke dalam
+        skuad tim utama Xavi di Camp Nou.\n\n
+        Butuh suatu hal yang spesial untuk menjadi pemain termuda Barcelona di skuad hari pertandingan.\n\n
+        Kita ketahui bersama bahwa akademi La Masia yang terkenal pernah menghasilkan sejumlah legenda, namun tak satu pun dari mereka - bahkan
+        Lionel Messi, Xavi atau Carles Puyol - yang mampu menembus tim utama sedini Lamine Yamal.\n\n
+        Yamal belum akan berusia 16 tahun hingga Juli, tapi dia sudah lama berada di skuad senior Barca. Xavi memanggil pemain sayap itu untuk
+        berlatih bersama timnya tahun lalu, dan dia jelas cukup mengesankan untuk mendapat kesempatan besar ini, sebagaimana namanya sempat
+        dicantumkan di bangku cadangan untuk pertemuan dengan Atletico Madrid.\n\n
+        Performa Yamal di level akademi membuat sosoknya dibandingkan dengan Messi yang masyhur, paling tidak karena Yamal adalah seorang inside
+        forward berbakat dengan kaki kiri yang luar biasa.\n\n
+        Namun dia sukses membuktikan dirinya sebagai bintang potensial dengan caranya sendiri, mengukir jalan yang berbeda dari legenda terbesar La Masia.\n\n
+        Jadi, siapa Yamal, dan mengapa dia masuk dalam rencana tim utama Xavi di usia yang masih begitu muda?
+    </string>
+
+    <!--  news 4  -->
+    <string name="news_title4">Lamine Yamal Reinkarnasi Lionel Messi, Barcelona Jangan Sampai Sia-Siakan Bakat Luar Biasanya</string>
+    <string name="news_desc4">Masih banyak waktu bagi Lamine Yamal untuk memecahkan rekor debutan termuda di Barcelona.\n\n
+        Lamine Yamal tidak masuk saat kemenangan hari Minggu atas Atletico Madrid, tetapi dia masih berusia 15 tahun.\n\n
+        Panggilannya ke tim utama akan membuat beberapa orang terkejut, Barcelona tidak memiliki kekurangan pemain untuk sisi kanan dari tiga
+        pemain depan mereka dan Yamal belum bermain untuk tim Barcelona B.\n\n
+        Tapi ini adalah pertunjukan kepercayaan yang jelas dari klub terhadap pemain yang diwakili Jorge Mendes, yang dirancang untuk membantu
+        meyakinkannya bahwa dia harus bertahan setelah ulang tahunnya yang ke-16 musim panas ini, dan tidak menandatangani kontrak senior
+        pertama yang jauh lebih menguntungkan dari klub.\n\n
+        Yamal akan memecahkan rekor pada hari Minggu. Dia berumur 15 tahun, sembilan bulan dan 10 hari. Pemegang saat ini Vicenc Martinez tampil
+        pertama kali pada tahun 1941 pada usia 16 tahun, 10 bulan dan lima hari.\n\n
+    </string>
+
+    <!--  news 5  -->
+    <string name="news_title5">Live Streaming Barcelona Vs Real Betis, Kickoff 02.00 WIB</string>
+    <string name="news_desc5">Barcelona akan menjamu Real Betis pada lanjutan kompetisi teratas Liga Spanyol, La Liga.Sang pemuncak klasemen
+        Barcelona bakal melawan Real Betis pada pekan ke-32 Liga Spanyol 2022-2023. Laga Barcelona vs Real Betis tersebut akan dilangsungkan di
+        Stadion Camp Nou pada Minggu (30/4/2023) dengan kickoff pukul 02.00 WIB.\n\n
+        Xavi Hernandez selaku pelatih Barcelona menyebut bahwa pertandingan melawan Betis menjadi kesempatan untuk mendekatkan diri ke gelar juara.\n\n
+        \"Kami memiliki kesempatan lain untuk bergerak lebih dekat ke gelar liga,\" kata Xavi dikutip dari laman resmi klub.\n\n
+        Barcelona saat ini menguasai posisi puncak klasemen Liga Spanyol dengan raihan 76 poin dari 31 laga. Adapun pertandingan Barcelona vs
+        Betis dapat disaksikan secara streaming di Vidio dengan mengaktifkan paket berlangganan yang tersedia.
+    </string>
+
+</resources>
